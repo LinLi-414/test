@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dufokk2dvrgus"]
+
+[ext_resource type="Texture2D" uid="uid://d4iufgiu5330k" path="res://assets/b1.png" id="1_r1ws2"]
+
+[node name="chess" type="Sprite2D"]
+texture_filter = 1
+texture = ExtResource("1_r1ws2")
